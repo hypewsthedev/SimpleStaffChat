@@ -111,8 +111,6 @@ buildNumber.properties
 
 # Common working directory
 run/
-/src/
 /pom.xml
 /target
-/src
 /test/

@@ -1,0 +1,50 @@
+name: SimpleStaffChat
+version: ${project.version}
+main: com.hypews.simplestaffchat.SimpleStaffChat
+api-version: 1.16
+authors: [ hypews ]
+description: A simple staff chatting system with multiple channels
+website: www.hypews.com
+commands:
+  staffchatadmin:
+    description: A command for server administrators that manages the settings for this plugin
+    aliases:
+      - sca
+      - scadmin
+      - schatadmin
+      - staffcadmin
+  staffchatadmin reload:
+    description: A command for server administrators that manages the settings for this plugin
+    aliases:
+      - sca reload
+      - scadmin reload
+      - schatadmin reload
+      - staffcadmin reload
+  staffchatadmin help:
+    description: A command for server administrators that manages the settings for this plugin
+    aliases:
+      - sca help
+      - scadmin help
+      - schatadmin help
+      - staffcadmin help
+  sc:
+    description: The Staff channel
+    aliases:
+      - staffchat
+      - staffchannel
+      - staff
+      - s
+  ac:
+    description: The admin channel
+    aliases:
+      - adminchat
+      - adminchannel
+      - admin
+      - a
+  oc:
+    description: The other channel / defined by you in the config
+    aliases:
+      - otherchat
+      - sparechannel
+      - other
+      - o

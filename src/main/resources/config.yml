@@ -1,0 +1,14 @@
+prefix: "&3[&bStaffChat&3]&r"
+
+################
+### Messages ###
+################
+
+messageNoPerms: "&cNo perms"
+
+################
+### Channels ###
+################
+staffChannelPrefix: "&4&lStaff&3"
+spareChannelPrefix: "&4&lSpare&3"
+adminChannelPrefix: "&4&lAdmin&3"
