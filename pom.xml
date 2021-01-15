@@ -6,7 +6,7 @@
 
     <groupId>com.hypews</groupId>
     <artifactId>SimpleStaffChat</artifactId>
-    <version>Devbuild 1.1.2</version>
+    <version>FINAL-1.0</version>
     <packaging>jar</packaging>
 
     <name>SimpleStaffChat</name>

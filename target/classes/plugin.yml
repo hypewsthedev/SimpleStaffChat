@@ -1,5 +1,5 @@
 name: SimpleStaffChat
-version: Devbuild 1.1.2
+version: FINAL-1.0
 main: com.hypews.simplestaffchat.SimpleStaffChat
 api-version: 1.16
 authors: [ hypews ]

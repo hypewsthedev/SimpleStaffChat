@@ -26,12 +26,24 @@ public class CommandSimpleStaffChat implements CommandExecutor {
                 return true;
             } else if (args[0].equalsIgnoreCase("help")) {
                 UtilUtilities.msg(player, "&3SimpleStaffChat Help");
+                UtilUtilities.msg(player, "&b/staffchatadmin &7- &bRoot StaffChatAdmin command");
+                UtilUtilities.msg(player, "&b/staffchatadmin reload &7- &bReloads all the config files");
+                UtilUtilities.msg(player, "&b/staffchatadmin help &7- &bView this");
+                UtilUtilities.msg(player, "&b/sc &7- &bThe staff chat channel");
+                UtilUtilities.msg(player, "&b/ac &7- &bThe admin chat channel");
+                UtilUtilities.msg(player, "&b/oc &7- &bThe other / spare chat channel");
                 return true;
             }
             return true;
         }
         if (args.length == 0) {
             UtilUtilities.msg(player, "&3SimpleStaffChat Help");
+            UtilUtilities.msg(player, "&b/staffchatadmin &7- &bRoot StaffChatAdmin command");
+            UtilUtilities.msg(player, "&b/staffchatadmin reload &7- &bReloads all the config files");
+            UtilUtilities.msg(player, "&b/staffchatadmin help &7- &bView this");
+            UtilUtilities.msg(player, "&b/sc &7- &bThe staff chat channel");
+            UtilUtilities.msg(player, "&b/ac &7- &bThe admin chat channel");
+            UtilUtilities.msg(player, "&b/oc &7- &bThe other / spare chat channel");
         }
         return true;
 
