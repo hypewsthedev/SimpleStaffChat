@@ -1,0 +1,12 @@
+com\hypews\simplestaffchat\Utils\UtilMessages.class
+com\hypews\simplestaffchat\Commands\CommandSimpleStaffChat.class
+com\hypews\simplestaffchat\Utils\UtilUtilities.class
+com\hypews\simplestaffchat\Commands\Channels\ChannelSpare.class
+com\hypews\simplestaffchat\Commands\Channels\ChannelAdmin.class
+com\hypews\simplestaffchat\Utils\UtilUpdateChecker.class
+com\hypews\simplestaffchat\SimpleStaffChat.class
+com\hypews\simplestaffchat\Utils\UtilLogger$LogLevel.class
+com\hypews\simplestaffchat\Utils\UtilLogger$1.class
+com\hypews\simplestaffchat\Utils\UtilLogger.class
+com\hypews\simplestaffchat\Commands\Channels\ChannelStaff.class
+com\hypews\simplestaffchat\Utils\UtilSettings.class
